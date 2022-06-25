@@ -1,4 +1,4 @@
-FROM node:16-alpine
+FROM node:16-slim
 WORKDIR /usr/src/app
 RUN yarn init --yes --private
 RUN yarn add firebase-tools
