@@ -5,6 +5,6 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "firebase-tools": "^9.14.0"
+    "firebase-tools": "^11.1.0"
   }
 }
